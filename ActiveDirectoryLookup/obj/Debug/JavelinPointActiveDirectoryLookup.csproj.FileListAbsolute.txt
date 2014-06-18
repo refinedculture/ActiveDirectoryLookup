@@ -1,0 +1,8 @@
+C:\Users\jpeoples\Documents\Visual Studio 2008\Projects\ActiveDirectoryLookup\ActiveDirectoryLookup\bin\Debug\ActiveDirectoryLookup.exe
+C:\Users\jpeoples\Documents\Visual Studio 2008\Projects\ActiveDirectoryLookup\ActiveDirectoryLookup\bin\Debug\ActiveDirectoryLookup.pdb
+C:\Users\jpeoples\Documents\Visual Studio 2008\Projects\ActiveDirectoryLookup\ActiveDirectoryLookup\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jpeoples\Documents\Visual Studio 2008\Projects\ActiveDirectoryLookup\ActiveDirectoryLookup\obj\Debug\JavelinPointActiveDirectoryLookup.csproj.GenerateResource.Cache
+C:\Users\jpeoples\Documents\Visual Studio 2008\Projects\ActiveDirectoryLookup\ActiveDirectoryLookup\obj\Debug\ActiveDirectoryLookup.exe
+C:\Users\jpeoples\Documents\Visual Studio 2008\Projects\ActiveDirectoryLookup\ActiveDirectoryLookup\obj\Debug\ActiveDirectoryLookup.pdb
+C:\Users\jpeoples\Documents\Visual Studio 2008\Projects\ActiveDirectoryLookup\ActiveDirectoryLookup\obj\Debug\JavelinPointActiveDirectoryLookup.FormMain.resources
+C:\Users\jpeoples\Documents\Visual Studio 2008\Projects\ActiveDirectoryLookup\ActiveDirectoryLookup\obj\Debug\JavelinPointActiveDirectoryLookup.Properties.Resources.resources

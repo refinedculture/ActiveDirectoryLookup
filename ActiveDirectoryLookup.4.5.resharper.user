@@ -1,0 +1,125 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2A099EB1-ECD9-4CC7-898C-C9349D978DD6/f:FormMain.cs" caret="305" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2A099EB1-ECD9-4CC7-898C-C9349D978DD6/f:FormMain.cs" caret="972" fromTop="10" />
+      <File id="2A099EB1-ECD9-4CC7-898C-C9349D978DD6/f:FormMain.cs" caret="1047" fromTop="13" />
+      <File id="2A099EB1-ECD9-4CC7-898C-C9349D978DD6/f:FormMain.cs" caret="3341" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="entryBox" priority="3" />
+      <Item value="if" priority="3" />
+      <Item value="e" priority="2" />
+      <Item value="Keys" priority="3" />
+      <Item value="searchButton" priority="0" />
+      <Item value="null" priority="1" />
+      <Item value="return" priority="2" />
+      <Item value="item" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="searchResult" priority="2" />
+      <Item value="enumerator" priority="2" />
+      <Item value="string" priority="3" />
+      <Item value="total" priority="1" />
+      <Item value="entry" priority="3" />
+      <Item value="new" priority="2" />
+      <Item value="var" priority="0" />
+      <Item value="MessageBox" priority="2" />
+      <Item value="List" priority="0" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="thing" priority="0" />
+      <Item value="infoToShow" priority="6" />
+      <Item value="String" priority="0" />
+      <Item value="property" priority="0" />
+      <Item value="displayBox" priority="2" />
+      <Item value="Size" priority="1" />
+      <Item value="FormMain" priority="0" />
+      <Item value="this" priority="1" />
+      <Item value="Refresh" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="numberOfPeopleFoundWithName" priority="0" />
+      <Item value="Environment" priority="1" />
+      <Item value="numOfRecordsFound" priority="1" />
+      <Item value="numOfRecordsFoundLabel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ActiveDirectoryLookup.Form1">
+      <Item value="searchButton_Click" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyPressEventArgs">
+      <Item value="KeyChar" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="Enter" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Keys">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Click" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyEventArgs">
+      <Item value="KeyCode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="2" />
+      <Item value="Focus" priority="0" />
+      <Item value="Size" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DirectoryServices.SearchResult">
+      <Item value="Properties" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DirectoryServices.ResultPropertyCollection">
+      <Item value="GetEnumerator" priority="0" />
+      <Item value="PropertyNames" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IDictionaryEnumerator">
+      <Item value="Entry" priority="2" />
+      <Item value="MoveNext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.DictionaryEntry">
+      <Item value="Key" priority="1" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ActiveDirectoryLookup.FormMain">
+      <Item value="Height" priority="1" />
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="NewLine" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
